@@ -1,0 +1,3336 @@
+** Test 1 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 142B5589A0FAF27E03D79693FF8E13A8
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 142B5589A0FAF27E03D79693FF8E13A8
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 142B5589A0FAF27E03D79693FF8E13A8
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+(Project, 48)
+(Midterm, 95)
+(Final, 180)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 142B5589A0FAF27E03D79693FF8E13A8
+args[4]: -PF
+args[5]: -G
+(Smith, John, 0.3092)
+(Tyler, Russell, 0.3067)
+(Mason, Ted, 0.2834)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 142B5589A0FAF27E03D79693FF8E13A8
+args[4]: -PF
+args[5]: -A
+(Mason, Ted, 0.2834)
+(Smith, John, 0.3092)
+(Tyler, Russell, 0.3067)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 142B5589A0FAF27E03D79693FF8E13A8
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 453787886C64B74DFE04CD5839921BE9
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+Midterm
+I'm here!
+Midterm
+I'm here!
+(Mason, Ted, 90)
+Midterm
+I'm here!
+(Smith, John, 95)
+Midterm
+I'm here!
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 453787886C64B74DFE04CD5839921BE9
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+Midterm
+Final
+I'm here!
+Midterm
+Final
+I'm here!
+Assignment@5ccd43c2
+Ted
+{Assignment@7960847b=90, Assignment@4aa8f0b4=50, Assignment@5ccd43c2=150}
+Midterm
+Final
+I'm here!
+Assignment@5ccd43c2
+Russell
+{Assignment@7960847b=80, Assignment@4aa8f0b4=49, Assignment@5ccd43c2=190}
+Midterm
+Final
+I'm here!
+Assignment@5ccd43c2
+John
+{Assignment@7960847b=95, Assignment@4aa8f0b4=48, Assignment@5ccd43c2=180}
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 453787886C64B74DFE04CD5839921BE9
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+(Midterm, 95)
+(Project, 48)
+(Final, 180)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 453787886C64B74DFE04CD5839921BE9
+args[4]: -PF
+args[5]: -G
+(Smith, John, 0.3092)
+(Tyler, Russell, 0.3067)
+(Mason, Ted, 0.2834)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 453787886C64B74DFE04CD5839921BE9
+args[4]: -PF
+args[5]: -A
+(Mason, Ted, 0.2834)
+(Smith, John, 0.3092)
+(Tyler, Russell, 0.3067)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 453787886C64B74DFE04CD5839921BE9
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+Midterm
+Final
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 1CD7BCDAAE144E8D8CC1B9E4C6E1A07A
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 1CD7BCDAAE144E8D8CC1B9E4C6E1A07A
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 1CD7BCDAAE144E8D8CC1B9E4C6E1A07A
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 1CD7BCDAAE144E8D8CC1B9E4C6E1A07A
+args[4]: -PF
+args[5]: -G
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 1CD7BCDAAE144E8D8CC1B9E4C6E1A07A
+args[4]: -PF
+args[5]: -A
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 1CD7BCDAAE144E8D8CC1B9E4C6E1A07A
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d7
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: -PA
+args[4]: -A
+args[5]: -AN
+args[6]: Midterm
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d7
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: -PA
+args[4]: -G
+args[5]: -AN
+args[6]: Final
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: -PS
+args[4]: -FN
+args[5]: John
+args[6]: -LN
+args[7]: Smith
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d5
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: -PF
+args[4]: -G
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d5
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: -PF
+args[4]: -A
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: EAFCFEAF1FDE736B56D3262851F0ED1F
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: EAFCFEAF1FDE736B56D3262851F0ED1F
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: EAFCFEAF1FDE736B56D3262851F0ED1F
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: EAFCFEAF1FDE736B56D3262851F0ED1F
+args[4]: -PF
+args[5]: -G
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: EAFCFEAF1FDE736B56D3262851F0ED1F
+args[4]: -PF
+args[5]: -A
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: EAFCFEAF1FDE736B56D3262851F0ED1F
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d7
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: -PA
+args[4]: -A
+args[5]: -AN
+args[6]: Midterm
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d7
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: -PA
+args[4]: -G
+args[5]: -AN
+args[6]: Final
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: -PS
+args[4]: -FN
+args[5]: John
+args[6]: -LN
+args[7]: Smith
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d5
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: -PF
+args[4]: -G
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d5
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: -PF
+args[4]: -A
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 75E92553BAFBF7A6038511E6E28AA437
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+7A841417F323D478F3FCEB480E8D9C056F46A5AA9A97A3982FC86F647838201D
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 75E92553BAFBF7A6038511E6E28AA437
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+715727D0D02C0A722AADD1D1E0B46ACAD68DEC163C6FA8BC2D2C67452EB8A1A0
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 75E92553BAFBF7A6038511E6E28AA437
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+43307008AE019A78346BEC9EFB141285EFB3F24EA8085B27F43D4AF29B762D50
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 75E92553BAFBF7A6038511E6E28AA437
+args[4]: -PF
+args[5]: -G
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+7A841417F323D478F3FCEB480E8D9C056F46A5AA9A97A3982FC86F647838201D
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 75E92553BAFBF7A6038511E6E28AA437
+args[4]: -PF
+args[5]: -A
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+7A841417F323D478F3FCEB480E8D9C056F46A5AA9A97A3982FC86F647838201D
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 75E92553BAFBF7A6038511E6E28AA437
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+A6F2E3966148C7EB33E9CD02E9DD5F237CE77509A614C60648FAD40FE92556F6
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 40927AD14FD07DF55FE384A9C398E920
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+--------------------
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 40927AD14FD07DF55FE384A9C398E920
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+43307008AE019A78346BEC9EFB141285EFB3F24EA8085B27F43D4AF29B762D50
+--------------------
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 40927AD14FD07DF55FE384A9C398E920
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+43307008AE019A78346BEC9EFB141285EFB3F24EA8085B27F43D4AF29B762D50
+--------------------
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 40927AD14FD07DF55FE384A9C398E920
+args[4]: -PF
+args[5]: -G
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+7A841417F323D478F3FCEB480E8D9C056F46A5AA9A97A3982FC86F647838201D
+--------------------
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 40927AD14FD07DF55FE384A9C398E920
+args[4]: -PF
+args[5]: -A
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+7A841417F323D478F3FCEB480E8D9C056F46A5AA9A97A3982FC86F647838201D
+--------------------
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 40927AD14FD07DF55FE384A9C398E920
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+--------------------
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 7E044F3D2F9034DD43A1863640156C17
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+E44A7C8EA8C05FBEAE0CB2C21E35B24665D4C84E44EE50B6DB7CD7FD0F278561
+E44A7C8EA8C05FBEAE0CB2C21E35B24665D4C84E44EE50B6DB7CD7FD0F278561
+1AB7B773C68626D7403A01DBE1695B2C58E9C3A784054F7E77ECF114747CB009
+150BE5BDA6FA889E52D2C250E2EFD92C3035F7D527B45EA3D112E8DFEF907481
+--------------------
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 7E044F3D2F9034DD43A1863640156C17
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+E44A7C8EA8C05FBEAE0CB2C21E35B24665D4C84E44EE50B6DB7CD7FD0F278561
+E44A7C8EA8C05FBEAE0CB2C21E35B24665D4C84E44EE50B6DB7CD7FD0F278561
+1AB7B773C68626D7403A01DBE1695B2C58E9C3A784054F7E77ECF114747CB009
+C1C71FEA3091BA10E0C4DD59AB684E37B8FF8C03AFE89B304D8F1D8C174C0B42
+--------------------
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 7E044F3D2F9034DD43A1863640156C17
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+E44A7C8EA8C05FBEAE0CB2C21E35B24665D4C84E44EE50B6DB7CD7FD0F278561
+E44A7C8EA8C05FBEAE0CB2C21E35B24665D4C84E44EE50B6DB7CD7FD0F278561
+1AB7B773C68626D7403A01DBE1695B2C58E9C3A784054F7E77ECF114747CB009
+BD7314309551E99AE31FBFC1ED123CC5A5AF4B2429C1E0068DEBE5CAB6B9806B
+--------------------
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 7E044F3D2F9034DD43A1863640156C17
+args[4]: -PF
+args[5]: -G
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+E44A7C8EA8C05FBEAE0CB2C21E35B24665D4C84E44EE50B6DB7CD7FD0F278561
+E44A7C8EA8C05FBEAE0CB2C21E35B24665D4C84E44EE50B6DB7CD7FD0F278561
+1AB7B773C68626D7403A01DBE1695B2C58E9C3A784054F7E77ECF114747CB009
+4D08FBB650927EC5DF9E68D8E16B5C0E3BADDDF7930ADC44B6AD66CDDF1A9D1B
+--------------------
+(Smith, John, 0.3092)
+(Tyler, Russell, 0.3067)
+(Mason, Ted, 0.2834)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 7E044F3D2F9034DD43A1863640156C17
+args[4]: -PF
+args[5]: -A
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+1AB7B773C68626D7403A01DBE1695B2C58E9C3A784054F7E77ECF114747CB009
+E1D0432B131D4A0DEDEDFA8E40959BD2C4DAFFC4FD4DE0F1878DFDA97601EE97
+--------------------
+(Mason, Ted, 0.3)
+(Smith, John, 0.3438)
+(Tyler, Russell, 0.3375)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 7E044F3D2F9034DD43A1863640156C17
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+1AB7B773C68626D7403A01DBE1695B2C58E9C3A784054F7E77ECF114747CB009
+C5EF0537926A3FCBFAD258A5EC82D43A5AAB1FFD154FDB4451D610DFF598D0D9
+--------------------
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+3FFFB7B8BCD4E24CF0CB2A44887EF007AF0BE3219F1A5E4AABE22D8A4993CD58
+3FFFB7B8BCD4E24CF0CB2A44887EF007AF0BE3219F1A5E4AABE22D8A4993CD58
+1AB7B773C68626D7403A01DBE1695B2C58E9C3A784054F7E77ECF114747CB009
+C5EF0537926A3FCBFAD258A5EC82D43A5AAB1FFD154FDB4451D610DFF598D0D9
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 24C2F2B985BBDE94432AE8D4C8FF7D37
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+D41FF62D681F6C5D270B59566EB02F75DBD7E3017D7CEFB8F828FBFFEFC8623B
+7ADDCF2C5B80ADA72EA1A3F7F07455EF45C1187173C2CE317088EAA3F86CCDBB
+--------------------
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 24C2F2B985BBDE94432AE8D4C8FF7D37
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+D41FF62D681F6C5D270B59566EB02F75DBD7E3017D7CEFB8F828FBFFEFC8623B
+56BB3C751F1D69AD35A695213280B302FCC93B75A1E9FF83217A540F4FD1292F
+--------------------
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 24C2F2B985BBDE94432AE8D4C8FF7D37
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+D41FF62D681F6C5D270B59566EB02F75DBD7E3017D7CEFB8F828FBFFEFC8623B
+F0EFA049B9D19DB4766AC23FBB5F47119F40331372713289C324E456990C5464
+--------------------
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 24C2F2B985BBDE94432AE8D4C8FF7D37
+args[4]: -PF
+args[5]: -G
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+D41FF62D681F6C5D270B59566EB02F75DBD7E3017D7CEFB8F828FBFFEFC8623B
+56BB3C751F1D69AD35A695213280B302FCC93B75A1E9FF83217A540F4FD1292F
+--------------------
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 24C2F2B985BBDE94432AE8D4C8FF7D37
+args[4]: -PF
+args[5]: -A
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+D41FF62D681F6C5D270B59566EB02F75DBD7E3017D7CEFB8F828FBFFEFC8623B
+8C1F1334FB4A7D9498B7A2E1CE21B25D87EF7017E7739E6C13FCD5F720D44A23
+--------------------
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 24C2F2B985BBDE94432AE8D4C8FF7D37
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+D41FF62D681F6C5D270B59566EB02F75DBD7E3017D7CEFB8F828FBFFEFC8623B
+D41FF62D681F6C5D270B59566EB02F75DBD7E3017D7CEFB8F828FBFFEFC8623B
+--------------------
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+3FFFB7B8BCD4E24CF0CB2A44887EF007AF0BE3219F1A5E4AABE22D8A4993CD58
+3FFFB7B8BCD4E24CF0CB2A44887EF007AF0BE3219F1A5E4AABE22D8A4993CD58
+D41FF62D681F6C5D270B59566EB02F75DBD7E3017D7CEFB8F828FBFFEFC8623B
+D41FF62D681F6C5D270B59566EB02F75DBD7E3017D7CEFB8F828FBFFEFC8623B
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 153B652F6E3EF577C5057F5FA68AAB8D
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+21962799328E5F12AF563B12B9CEED71B8E9329B4C68A177C553E29DEB86B8FF
+21962799328E5F12AF563B12B9CEED71B8E9329B4C68A177C553E29DEB86B8FF
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+468ED56076D39B15ED3F9F94C061906AC95A81721CCE9A0DCE347AB8C52D7AEB
+468ED56076D39B15ED3F9F94C061906AC95A81721CCE9A0DCE347AB8C52D7AEB
+--------------------
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 153B652F6E3EF577C5057F5FA68AAB8D
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+21962799328E5F12AF563B12B9CEED71B8E9329B4C68A177C553E29DEB86B8FF
+21962799328E5F12AF563B12B9CEED71B8E9329B4C68A177C553E29DEB86B8FF
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+468ED56076D39B15ED3F9F94C061906AC95A81721CCE9A0DCE347AB8C52D7AEB
+022EBD6ABF64319B2D0156D2910668BDC4E34B90B05C5F33F71F642706D4E8D2
+--------------------
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 153B652F6E3EF577C5057F5FA68AAB8D
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+21962799328E5F12AF563B12B9CEED71B8E9329B4C68A177C553E29DEB86B8FF
+21962799328E5F12AF563B12B9CEED71B8E9329B4C68A177C553E29DEB86B8FF
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+468ED56076D39B15ED3F9F94C061906AC95A81721CCE9A0DCE347AB8C52D7AEB
+468ED56076D39B15ED3F9F94C061906AC95A81721CCE9A0DCE347AB8C52D7AEB
+--------------------
+(Final, 180)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 153B652F6E3EF577C5057F5FA68AAB8D
+args[4]: -PF
+args[5]: -G
+21962799328E5F12AF563B12B9CEED71B8E9329B4C68A177C553E29DEB86B8FF
+21962799328E5F12AF563B12B9CEED71B8E9329B4C68A177C553E29DEB86B8FF
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+468ED56076D39B15ED3F9F94C061906AC95A81721CCE9A0DCE347AB8C52D7AEB
+468ED56076D39B15ED3F9F94C061906AC95A81721CCE9A0DCE347AB8C52D7AEB
+--------------------
+(Tyler, Russell, NaN)
+(Smith, John, 0.45)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 153B652F6E3EF577C5057F5FA68AAB8D
+args[4]: -PF
+args[5]: -A
+21962799328E5F12AF563B12B9CEED71B8E9329B4C68A177C553E29DEB86B8FF
+21962799328E5F12AF563B12B9CEED71B8E9329B4C68A177C553E29DEB86B8FF
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+468ED56076D39B15ED3F9F94C061906AC95A81721CCE9A0DCE347AB8C52D7AEB
+022EBD6ABF64319B2D0156D2910668BDC4E34B90B05C5F33F71F642706D4E8D2
+--------------------
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 153B652F6E3EF577C5057F5FA68AAB8D
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+21962799328E5F12AF563B12B9CEED71B8E9329B4C68A177C553E29DEB86B8FF
+21962799328E5F12AF563B12B9CEED71B8E9329B4C68A177C553E29DEB86B8FF
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+9C530080FCC26D1EEA9D1F4E82D9131FF7AC3C19D75A0C5887404989078CBF6B
+468ED56076D39B15ED3F9F94C061906AC95A81721CCE9A0DCE347AB8C52D7AEB
+022EBD6ABF64319B2D0156D2910668BDC4E34B90B05C5F33F71F642706D4E8D2
+--------------------
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 91BCE9557201F9C2E6D550BE3BED7D82
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+7A841417F323D478F3FCEB480E8D9C056F46A5AA9A97A3982FC86F647838201D
+--------------------
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 91BCE9557201F9C2E6D550BE3BED7D82
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+781196A5207ECB6D51ABFFCF375D767E342A2AF8EA35763AD2E528C82B565287
+--------------------
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 91BCE9557201F9C2E6D550BE3BED7D82
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+781196A5207ECB6D51ABFFCF375D767E342A2AF8EA35763AD2E528C82B565287
+--------------------
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 91BCE9557201F9C2E6D550BE3BED7D82
+args[4]: -PF
+args[5]: -G
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+43307008AE019A78346BEC9EFB141285EFB3F24EA8085B27F43D4AF29B762D50
+--------------------
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 91BCE9557201F9C2E6D550BE3BED7D82
+args[4]: -PF
+args[5]: -A
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+7A841417F323D478F3FCEB480E8D9C056F46A5AA9A97A3982FC86F647838201D
+--------------------
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 91BCE9557201F9C2E6D550BE3BED7D82
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+42F2168369954112789C89B121DBE598C02CBE76CA86C23DB5AB331F36D568D2
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+988722C23D78A46021D0E7CA9DEEE7AA8BB83288269174FFACB7316F381CCA1D
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+--------------------
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 0584FB88CADB1658BBB4308F9ABF130B
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+--------------------
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 0584FB88CADB1658BBB4308F9ABF130B
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+--------------------
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 0584FB88CADB1658BBB4308F9ABF130B
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+--------------------
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 0584FB88CADB1658BBB4308F9ABF130B
+args[4]: -PF
+args[5]: -G
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+17BD44445718D7166DDD6566B2D967C30712993FCC96D325565415E5B5BAD49C
+--------------------
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 0584FB88CADB1658BBB4308F9ABF130B
+args[4]: -PF
+args[5]: -A
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+--------------------
+(Mason, Ted, NaN)
+(Smith, John, NaN)
+(Tyler, Russell, NaN)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 0584FB88CADB1658BBB4308F9ABF130B
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+209B9768DA283635F68492360BB7B51CA323D3297F7B97EF971ADCCA70296087
+43307008AE019A78346BEC9EFB141285EFB3F24EA8085B27F43D4AF29B762D50
+43307008AE019A78346BEC9EFB141285EFB3F24EA8085B27F43D4AF29B762D50
+43307008AE019A78346BEC9EFB141285EFB3F24EA8085B27F43D4AF29B762D50
+--------------------
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 9060A0543560DC8E319D983A609B958C
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+6B15325DF9F5517C0E21E7957F1B1A594E1E9753EE2B9C40277C56D7B2F981DC
+A05218C9B40EABB57A982213F39D35F6937EAD9A584BE3F24E687F083AB5C53F
+A05218C9B40EABB57A982213F39D35F6937EAD9A584BE3F24E687F083AB5C53F
+A05218C9B40EABB57A982213F39D35F6937EAD9A584BE3F24E687F083AB5C53F
+--------------------
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 9060A0543560DC8E319D983A609B958C
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+6B15325DF9F5517C0E21E7957F1B1A594E1E9753EE2B9C40277C56D7B2F981DC
+6B15325DF9F5517C0E21E7957F1B1A594E1E9753EE2B9C40277C56D7B2F981DC
+6B15325DF9F5517C0E21E7957F1B1A594E1E9753EE2B9C40277C56D7B2F981DC
+6B15325DF9F5517C0E21E7957F1B1A594E1E9753EE2B9C40277C56D7B2F981DC
+--------------------
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 9060A0543560DC8E319D983A609B958C
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+6B15325DF9F5517C0E21E7957F1B1A594E1E9753EE2B9C40277C56D7B2F981DC
+A05218C9B40EABB57A982213F39D35F6937EAD9A584BE3F24E687F083AB5C53F
+A05218C9B40EABB57A982213F39D35F6937EAD9A584BE3F24E687F083AB5C53F
+A05218C9B40EABB57A982213F39D35F6937EAD9A584BE3F24E687F083AB5C53F
+--------------------
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 9060A0543560DC8E319D983A609B958C
+args[4]: -PF
+args[5]: -G
+6B15325DF9F5517C0E21E7957F1B1A594E1E9753EE2B9C40277C56D7B2F981DC
+A05218C9B40EABB57A982213F39D35F6937EAD9A584BE3F24E687F083AB5C53F
+A05218C9B40EABB57A982213F39D35F6937EAD9A584BE3F24E687F083AB5C53F
+A05218C9B40EABB57A982213F39D35F6937EAD9A584BE3F24E687F083AB5C53F
+--------------------
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 9060A0543560DC8E319D983A609B958C
+args[4]: -PF
+args[5]: -A
+C59E57B3CC6A06436F4E5249F92B62B2C919FF1F5089933A86AF8B99D7B69DA6
+D8695899A0F1F0460608E71435F4C3D43A0DAB6EF21A76B4670BE7F33CE26653
+D8695899A0F1F0460608E71435F4C3D43A0DAB6EF21A76B4670BE7F33CE26653
+D8695899A0F1F0460608E71435F4C3D43A0DAB6EF21A76B4670BE7F33CE26653
+--------------------
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 9060A0543560DC8E319D983A609B958C
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+C59E57B3CC6A06436F4E5249F92B62B2C919FF1F5089933A86AF8B99D7B69DA6
+D8695899A0F1F0460608E71435F4C3D43A0DAB6EF21A76B4670BE7F33CE26653
+D8695899A0F1F0460608E71435F4C3D43A0DAB6EF21A76B4670BE7F33CE26653
+D8695899A0F1F0460608E71435F4C3D43A0DAB6EF21A76B4670BE7F33CE26653
+--------------------
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 8904EEA22B839E7FF7145D13721D31B2
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+36BF8DB1FC9D35BB673F55B5F059FF832E7203B655F29809E0B30F4D0663B349
+0301ECE7721C1BC26F3635384CBE9A430D86D92FBBE321C5E51BBCDD525A98C5
+0301ECE7721C1BC26F3635384CBE9A430D86D92FBBE321C5E51BBCDD525A98C5
+0301ECE7721C1BC26F3635384CBE9A430D86D92FBBE321C5E51BBCDD525A98C5
+--------------------
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 8904EEA22B839E7FF7145D13721D31B2
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+36BF8DB1FC9D35BB673F55B5F059FF832E7203B655F29809E0B30F4D0663B349
+0301ECE7721C1BC26F3635384CBE9A430D86D92FBBE321C5E51BBCDD525A98C5
+0301ECE7721C1BC26F3635384CBE9A430D86D92FBBE321C5E51BBCDD525A98C5
+0301ECE7721C1BC26F3635384CBE9A430D86D92FBBE321C5E51BBCDD525A98C5
+--------------------
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 8904EEA22B839E7FF7145D13721D31B2
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+36BF8DB1FC9D35BB673F55B5F059FF832E7203B655F29809E0B30F4D0663B349
+0301ECE7721C1BC26F3635384CBE9A430D86D92FBBE321C5E51BBCDD525A98C5
+0301ECE7721C1BC26F3635384CBE9A430D86D92FBBE321C5E51BBCDD525A98C5
+0301ECE7721C1BC26F3635384CBE9A430D86D92FBBE321C5E51BBCDD525A98C5
+--------------------
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 8904EEA22B839E7FF7145D13721D31B2
+args[4]: -PF
+args[5]: -G
+36BF8DB1FC9D35BB673F55B5F059FF832E7203B655F29809E0B30F4D0663B349
+0301ECE7721C1BC26F3635384CBE9A430D86D92FBBE321C5E51BBCDD525A98C5
+0301ECE7721C1BC26F3635384CBE9A430D86D92FBBE321C5E51BBCDD525A98C5
+0301ECE7721C1BC26F3635384CBE9A430D86D92FBBE321C5E51BBCDD525A98C5
+--------------------
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 8904EEA22B839E7FF7145D13721D31B2
+args[4]: -PF
+args[5]: -A
+36BF8DB1FC9D35BB673F55B5F059FF832E7203B655F29809E0B30F4D0663B349
+0301ECE7721C1BC26F3635384CBE9A430D86D92FBBE321C5E51BBCDD525A98C5
+0301ECE7721C1BC26F3635384CBE9A430D86D92FBBE321C5E51BBCDD525A98C5
+0301ECE7721C1BC26F3635384CBE9A430D86D92FBBE321C5E51BBCDD525A98C5
+--------------------
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 8904EEA22B839E7FF7145D13721D31B2
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+36BF8DB1FC9D35BB673F55B5F059FF832E7203B655F29809E0B30F4D0663B349
+36BF8DB1FC9D35BB673F55B5F059FF832E7203B655F29809E0B30F4D0663B349
+36BF8DB1FC9D35BB673F55B5F059FF832E7203B655F29809E0B30F4D0663B349
+36BF8DB1FC9D35BB673F55B5F059FF832E7203B655F29809E0B30F4D0663B349
+--------------------
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 54615F9C4E302B49BBB6B23A860D9880
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+C0176D78F6B1EB8AC89079F77383737BFD4B1C749166A03B7AA69C8EDD5D95C8
+C0176D78F6B1EB8AC89079F77383737BFD4B1C749166A03B7AA69C8EDD5D95C8
+C0176D78F6B1EB8AC89079F77383737BFD4B1C749166A03B7AA69C8EDD5D95C8
+C0176D78F6B1EB8AC89079F77383737BFD4B1C749166A03B7AA69C8EDD5D95C8
+--------------------
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 54615F9C4E302B49BBB6B23A860D9880
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+C0176D78F6B1EB8AC89079F77383737BFD4B1C749166A03B7AA69C8EDD5D95C8
+6D18B88FEB200CA0E35CE50C83AA5333DEFB58625D020166A77059ACE9194E20
+6D18B88FEB200CA0E35CE50C83AA5333DEFB58625D020166A77059ACE9194E20
+6D18B88FEB200CA0E35CE50C83AA5333DEFB58625D020166A77059ACE9194E20
+--------------------
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 54615F9C4E302B49BBB6B23A860D9880
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+C0176D78F6B1EB8AC89079F77383737BFD4B1C749166A03B7AA69C8EDD5D95C8
+C0176D78F6B1EB8AC89079F77383737BFD4B1C749166A03B7AA69C8EDD5D95C8
+C0176D78F6B1EB8AC89079F77383737BFD4B1C749166A03B7AA69C8EDD5D95C8
+C0176D78F6B1EB8AC89079F77383737BFD4B1C749166A03B7AA69C8EDD5D95C8
+--------------------
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 54615F9C4E302B49BBB6B23A860D9880
+args[4]: -PF
+args[5]: -G
+C0176D78F6B1EB8AC89079F77383737BFD4B1C749166A03B7AA69C8EDD5D95C8
+6D18B88FEB200CA0E35CE50C83AA5333DEFB58625D020166A77059ACE9194E20
+6D18B88FEB200CA0E35CE50C83AA5333DEFB58625D020166A77059ACE9194E20
+6D18B88FEB200CA0E35CE50C83AA5333DEFB58625D020166A77059ACE9194E20
+--------------------
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 54615F9C4E302B49BBB6B23A860D9880
+args[4]: -PF
+args[5]: -A
+C0176D78F6B1EB8AC89079F77383737BFD4B1C749166A03B7AA69C8EDD5D95C8
+C0176D78F6B1EB8AC89079F77383737BFD4B1C749166A03B7AA69C8EDD5D95C8
+C0176D78F6B1EB8AC89079F77383737BFD4B1C749166A03B7AA69C8EDD5D95C8
+C0176D78F6B1EB8AC89079F77383737BFD4B1C749166A03B7AA69C8EDD5D95C8
+--------------------
+(Smith, John, NaN)
+(Tyler, Russell, 0.475)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 54615F9C4E302B49BBB6B23A860D9880
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+C0176D78F6B1EB8AC89079F77383737BFD4B1C749166A03B7AA69C8EDD5D95C8
+6D18B88FEB200CA0E35CE50C83AA5333DEFB58625D020166A77059ACE9194E20
+6D18B88FEB200CA0E35CE50C83AA5333DEFB58625D020166A77059ACE9194E20
+6D18B88FEB200CA0E35CE50C83AA5333DEFB58625D020166A77059ACE9194E20
+--------------------
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 6573193A804F596F0D3AF2B1F8081B74
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 6573193A804F596F0D3AF2B1F8081B74
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 6573193A804F596F0D3AF2B1F8081B74
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 6573193A804F596F0D3AF2B1F8081B74
+args[4]: -PF
+args[5]: -G
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 6573193A804F596F0D3AF2B1F8081B74
+args[4]: -PF
+args[5]: -A
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 6573193A804F596F0D3AF2B1F8081B74
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 20A3AE8938C9ED55163AFEA884124132
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 20A3AE8938C9ED55163AFEA884124132
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 20A3AE8938C9ED55163AFEA884124132
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+(Final, 180)
+(Midterm, 95)
+(Project, 48)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 20A3AE8938C9ED55163AFEA884124132
+args[4]: -PF
+args[5]: -G
+(Smith, John, 0.3092)
+(Tyler, Russell, 0.3067)
+(Mason, Ted, 0.2834)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 20A3AE8938C9ED55163AFEA884124132
+args[4]: -PF
+args[5]: -A
+(Mason, Ted, 0.3)
+(Smith, John, 0.3438)
+(Tyler, Russell, 0.3375)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 20A3AE8938C9ED55163AFEA884124132
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 41892015504470213AC5644DEAE61D51
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 41892015504470213AC5644DEAE61D51
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 41892015504470213AC5644DEAE61D51
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+(Final, 180)
+(Midterm, 95)
+(Project, 48)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 41892015504470213AC5644DEAE61D51
+args[4]: -PF
+args[5]: -G
+(Smith, John, 0.3092)
+(Tyler, Russell, 0.3067)
+(Mason, Ted, 0.2834)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 41892015504470213AC5644DEAE61D51
+args[4]: -PF
+args[5]: -A
+(Mason, Ted, 0.3)
+(Smith, John, 0.3438)
+(Tyler, Russell, 0.3375)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 41892015504470213AC5644DEAE61D51
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 7CF627EA603F5EA0327AF8A9BB2F9959
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 7CF627EA603F5EA0327AF8A9BB2F9959
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 7CF627EA603F5EA0327AF8A9BB2F9959
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+(Midterm, 95)
+(Project, 48)
+(Final, 180)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 7CF627EA603F5EA0327AF8A9BB2F9959
+args[4]: -PF
+args[5]: -G
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 7CF627EA603F5EA0327AF8A9BB2F9959
+args[4]: -PF
+args[5]: -A
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 7CF627EA603F5EA0327AF8A9BB2F9959
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: EAF8F48489E1C63F17AB54353BA4C26C
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: EAF8F48489E1C63F17AB54353BA4C26C
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: EAF8F48489E1C63F17AB54353BA4C26C
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+(Final, 180)
+(Midterm, 95)
+(Project, 48)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: EAF8F48489E1C63F17AB54353BA4C26C
+args[4]: -PF
+args[5]: -G
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: EAF8F48489E1C63F17AB54353BA4C26C
+args[4]: -PF
+args[5]: -A
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: EAF8F48489E1C63F17AB54353BA4C26C
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 275E35D7E1C2A403F51C1D86D64F5DCD
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 275E35D7E1C2A403F51C1D86D64F5DCD
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 275E35D7E1C2A403F51C1D86D64F5DCD
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 275E35D7E1C2A403F51C1D86D64F5DCD
+args[4]: -PF
+args[5]: -G
+(Smith, John, 0)
+(Tyler, Russell, 0)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 275E35D7E1C2A403F51C1D86D64F5DCD
+args[4]: -PF
+args[5]: -A
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 275E35D7E1C2A403F51C1D86D64F5DCD
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+** Test 1 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 9641D04549EBFA6577A4310180380E57
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 9641D04549EBFA6577A4310180380E57
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 9641D04549EBFA6577A4310180380E57
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 9641D04549EBFA6577A4310180380E57
+args[4]: -PF
+args[5]: -G
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 9641D04549EBFA6577A4310180380E57
+args[4]: -PF
+args[5]: -A
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 9641D04549EBFA6577A4310180380E57
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 58C23BAA1234CA1EF48186DBBF66BFD2
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 58C23BAA1234CA1EF48186DBBF66BFD2
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 58C23BAA1234CA1EF48186DBBF66BFD2
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 58C23BAA1234CA1EF48186DBBF66BFD2
+args[4]: -PF
+args[5]: -G
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 58C23BAA1234CA1EF48186DBBF66BFD2
+args[4]: -PF
+args[5]: -A
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 58C23BAA1234CA1EF48186DBBF66BFD2
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 52CB9729930686EB0EFB6D03E2924A8C
+args[4]: -PA
+args[5]: -A
+args[6]: -AN
+args[7]: Midterm
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d8
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 52CB9729930686EB0EFB6D03E2924A8C
+args[4]: -PA
+args[5]: -G
+args[6]: -AN
+args[7]: Final
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d9
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 52CB9729930686EB0EFB6D03E2924A8C
+args[4]: -PS
+args[5]: -FN
+args[6]: John
+args[7]: -LN
+args[8]: Smith
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 52CB9729930686EB0EFB6D03E2924A8C
+args[4]: -PF
+args[5]: -G
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: %d6
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 52CB9729930686EB0EFB6D03E2924A8C
+args[4]: -PF
+args[5]: -A
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: 52CB9729930686EB0EFB6D03E2924A8C
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
+** Test 1 **
+- The output of your program is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+args[0]: -N
+args[1]: mygradebook
+args[2]: -K
+args[3]: D1BACB5A4663E09014AAD72A690730D7
+args[4]: -AA
+args[5]: -P
+args[6]: 50
+args[7]: -W
+args[8]: 0.125
+args[9]: -AN
+args[10]: Project
